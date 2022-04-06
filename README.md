@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hadirwahidd
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning front-end web development and node.js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Hadir Wahid. A Chemical Engineering Student at Cairo University.
+- 👀 I’m interested in coding and Web Development.
+- 🌱 I’m currently learning Full-Stack Web Development with Node.js, TypeScript & PostgreSQL.
 - 📫 How to reach me: https://www.linkedin.com/in/hadir-wahid-5a4a42220/
 
 <!---
